@@ -77,3 +77,4 @@ comparison*/
 
 # README files generated inside checkpoints
 **/checkpoint-*/README.md
+freebsd_cvs_archive/ncvs/
